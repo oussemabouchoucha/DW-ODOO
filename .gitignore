@@ -13,8 +13,6 @@ env/
 .env/
 .venv/
 
-# Ignore gitignore
-.gitignore
 
 # Ignore pycache
 **/__pycache__/**
