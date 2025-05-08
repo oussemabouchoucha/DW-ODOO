@@ -146,5 +146,3 @@ This project follows these ETL best practices:
 ## Contact
 
 Bouchoucha1oussema@gmail.com
-
-linkedin.com/in/oussema-bouchoucha-3ba12420a/
